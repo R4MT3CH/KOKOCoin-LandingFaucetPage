@@ -15,7 +15,7 @@ export const Faucet = ({withdrawError,withdrawSuccess,walletAddress,getKOKOHandl
                     <div className="newsletter-bx wow slideInUp">
                         <div className="container has-text-centered main-content">
                             <h1 className="title is-1">KoKo Faucet</h1>
-                              <h3>Get your free 1000 Koko / 30 days.</h3>
+                              <h3>Get your free 1,000,000 Koko / 30 days.</h3>
                                   <div className="mt-5">
                                       {withdrawError && (
                                       <div className="withdraw-error">{withdrawError}</div>
