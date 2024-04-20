@@ -53,7 +53,7 @@ export const NavBar = ({connectWallet,walletAddress}) => {
               <div className="social-icon">
               <a href="https://www.instagram.com/koko.coin_/"><img src={instagram} alt="Icon" /></a>
               <a href="https://twitter.com/koko_coin_"><img src={twitter} alt="Icon" /></a>
-              <a href="#"><img src={telegram} alt="Icon" /></a>
+              <a href="https://t.me/+5tdf3GT7X-wwZGIz"><img src={telegram} alt="Icon" /></a>
               </div>
               
                 <button className="vvd" onClick={connectWallet} >

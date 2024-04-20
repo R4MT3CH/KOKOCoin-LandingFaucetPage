@@ -20,7 +20,7 @@ export const Footer = () => {
             <div className="social-icon">
             <a href="https://www.instagram.com/koko.coin_/"><img src={instagram} alt="Icon" /></a>
             <a href="https://twitter.com/koko_coin_"><img src={twitter} alt="Icon" /></a>
-            <a href="#"><img src={telegram} alt="Icon" /></a>
+            <a href="https://t.me/+5tdf3GT7X-wwZGIz"><img src={telegram} alt="Icon" /></a>
             </div>
             <p>KOKO Coin is simply paying homage to a meme we all love and recognize.KOKO Coin is a meme coin with 
               no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin 
